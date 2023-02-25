@@ -1,0 +1,5 @@
+
+
+first_function <- function() {
+  print('This is my first package hosted on Github.')
+}
